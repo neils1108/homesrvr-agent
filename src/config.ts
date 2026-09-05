@@ -1,7 +1,7 @@
 export default {
     homesrvrUrl: 'http://localhost:4321',
 
-    agentToken: '866176a759b6fc847043eaa417d227a63494f3340db3914938a2b0fd0d1ffe27',
+    agentToken: '',
 
     interval: 30_000,
 
