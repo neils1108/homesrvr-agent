@@ -1,6 +1,8 @@
 export default {
+    // URL of Homesrvr dashboard
     homesrvrUrl: 'http://localhost:4321',
-
+    
+    // Agent token
     agentToken: '',
 
     interval: 30_000,
